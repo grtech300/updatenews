@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
         <div className="policy-content">
           <div className="policy-box">
             <p style={{ margin: 0, fontWeight: 500 }}>
-              At <strong>Update News</strong>, accessible from <a href="https://updatenews.com">https://updatenews.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document outlines the types of information collected and recorded by Update News and how we use it, specifically adhering to <strong>Google AdSense policies</strong> and international privacy regulations.
+              At <strong>Update News</strong>, accessible from <a href="https://updatenews.vercel.app">https://updatenews.vercel.app</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document outlines the types of information collected and recorded by Update News and how we use it, specifically adhering to <strong>Google AdSense policies</strong> and international privacy regulations.
             </p>
           </div>
 
@@ -32,7 +32,7 @@ export default function PrivacyPolicy() {
 
           <h2>2. Google AdSense & Third-Party Advertising Vendors</h2>
           <p>
-            Google is a third-party vendor on our site. Google uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to <code>https://updatenews.com</code> and other sites on the internet.
+            Google is a third-party vendor on our site. Google uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to <code>https://updatenews.vercel.app</code> and other sites on the internet.
           </p>
           <ul>
             <li>Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.</li>
@@ -63,7 +63,7 @@ export default function PrivacyPolicy() {
 
           <h2>6. Contact Privacy Officer</h2>
           <p>
-            If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact our Editorial Privacy Team at <code>privacy@updatenews.com</code> or via our <a href="#contact">Contact Us</a> page.
+            If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact our Editorial Privacy Team at <code>privacy@updatenews.vercel.app</code> or via our <a href="#contact">Contact Us</a> page.
           </p>
         </div>
       </div>

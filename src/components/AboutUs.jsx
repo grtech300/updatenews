@@ -60,7 +60,7 @@ export default function AboutUs() {
 
           <h2>Editorial Office & Inquiries</h2>
           <p>
-            We welcome feedback, corrections, press releases, and editorial inquiries. Please visit our <a href="#contact">Contact Us</a> page or email our managing editor at <code>editor@updatenews.com</code>.
+            We welcome feedback, corrections, press releases, and editorial inquiries. Please visit our <a href="#contact">Contact Us</a> page or email our managing editor at <code>editor@updatenews.vercel.app</code>.
           </p>
         </div>
       </div>

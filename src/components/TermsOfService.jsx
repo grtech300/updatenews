@@ -16,7 +16,7 @@ export default function TermsOfService() {
 
         <div className="policy-content">
           <p>
-            Welcome to <strong>Update News</strong>! These Terms of Service outline the rules and regulations for using the Update News Website located at <code>https://updatenews.com</code>.
+            Welcome to <strong>Update News</strong>! These Terms of Service outline the rules and regulations for using the Update News Website located at <code>https://updatenews.vercel.app</code>.
           </p>
 
           <h2>1. Agreement to Terms</h2>

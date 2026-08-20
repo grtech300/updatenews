@@ -17,7 +17,7 @@ export default function Disclaimer() {
         <div className="policy-content">
           <div className="policy-box">
             <p style={{ margin: 0 }}>
-              The information provided by <strong>Update News</strong> ("we," "us," or "our") on <code>https://updatenews.com</code> is for general informational and educational purposes only. All information on the Site is provided in good faith.
+              The information provided by <strong>Update News</strong> ("we," "us," or "our") on <code>https://updatenews.vercel.app</code> is for general informational and educational purposes only. All information on the Site is provided in good faith.
             </p>
           </div>
 

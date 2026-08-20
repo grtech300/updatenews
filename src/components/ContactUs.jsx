@@ -122,7 +122,7 @@ export default function ContactUs() {
                   <Mail style={{ color: 'var(--accent-color)', flexShrink: 0 }} size={20} />
                   <div>
                     <strong>General Newsroom</strong>
-                    <p style={{ color: 'var(--text-muted)', margin: 0 }}>newsroom@updatenews.com</p>
+                    <p style={{ color: 'var(--text-muted)', margin: 0 }}>newsroom@updatenews.vercel.app</p>
                   </div>
                 </div>
 
@@ -130,7 +130,7 @@ export default function ContactUs() {
                   <Mail style={{ color: 'var(--accent-color)', flexShrink: 0 }} size={20} />
                   <div>
                     <strong>Press & Syndication</strong>
-                    <p style={{ color: 'var(--text-muted)', margin: 0 }}>press@updatenews.com</p>
+                    <p style={{ color: 'var(--text-muted)', margin: 0 }}>press@updatenews.vercel.app</p>
                   </div>
                 </div>
 
